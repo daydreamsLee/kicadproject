@@ -1,0 +1,25 @@
+PACKAGE 'msop-8-1ep_3x3mm_p0_65mm_ep1_5x1_8mm'
+CLASS IC
+PINCOUNT 9
+PINORDER MAIN ,
+	SET__1,
+	GND__2,
+	GND__3,
+	CTRL__4,
+	SW__5,
+	SW__6,
+	NC__7,
+	VIN__8,
+	GND__9
+FUNCTION MAIN MAIN ,
+	1,
+	2,
+	3,
+	4,
+	5,
+	6,
+	7,
+	8,
+	9
+PACKAGEPROP VALUE AL8860MP
+END

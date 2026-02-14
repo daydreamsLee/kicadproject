@@ -1,0 +1,39 @@
+PACKAGE 'stc_sop-16_3_9x9_9mm_p1_27mm'
+CLASS IC
+PINCOUNT 16
+PINORDER MAIN ,
+	SEG4__1,
+	SEG5__2,
+	SEG6__3,
+	SEG7__4,
+	DIG0__5,
+	SCL__6,
+	SDA__7,
+	GND__8,
+	DIG1__9,
+	DIG2__10,
+	DIG3__11,
+	SEG0__12,
+	SEG1__13,
+	VCC__14,
+	SEG2__15,
+	SEG3__16
+FUNCTION MAIN MAIN ,
+	1,
+	2,
+	3,
+	4,
+	5,
+	6,
+	7,
+	8,
+	9,
+	10,
+	11,
+	12,
+	13,
+	14,
+	15,
+	16
+PACKAGEPROP VALUE CH455G
+END

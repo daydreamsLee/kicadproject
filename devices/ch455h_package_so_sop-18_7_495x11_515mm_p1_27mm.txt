@@ -1,0 +1,43 @@
+PACKAGE 'sop-18_7_495x11_515mm_p1_27mm'
+CLASS IC
+PINCOUNT 18
+PINORDER MAIN ,
+	DIG0__1,
+	SCL__2,
+	SDA__3,
+	GND__4,
+	DIG1__5,
+	DIG2__6,
+	DIG3__7,
+	ISET__8,
+	SEG0__9,
+	SEG1__10,
+	VCC__11,
+	SEG2__12,
+	SEG3__13,
+	SEG4__14,
+	SEG5__15,
+	SEG6__16,
+	SEG7__17,
+	??INT?__18
+FUNCTION MAIN MAIN ,
+	1,
+	2,
+	3,
+	4,
+	5,
+	6,
+	7,
+	8,
+	9,
+	10,
+	11,
+	12,
+	13,
+	14,
+	15,
+	16,
+	17,
+	18
+PACKAGEPROP VALUE CH455H
+END
