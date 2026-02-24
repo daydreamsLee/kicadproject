@@ -2632,7 +2632,7 @@
 	)
 	(symbol
 		(lib_id "CPLD_Altera:EPM240T100")
-		(at 52.07 87.63 0)
+		(at 31.75 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2641,7 +2641,7 @@
 		(fields_autoplaced yes)
 		(uuid "86f0f0c6-d9d6-4ed4-956f-cdfb1fb616e9")
 		(property "Reference" "U2"
-			(at 61.8333 26.67 0)
+			(at 41.5133 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2650,7 +2650,7 @@
 			)
 		)
 		(property "Value" "EPM240T100"
-			(at 61.8333 29.21 0)
+			(at 41.5133 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2659,7 +2659,7 @@
 			)
 		)
 		(property "Footprint" "Package_QFP:LQFP-100_14x14mm_P0.5mm"
-			(at 62.23 147.32 0)
+			(at 41.91 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2669,7 +2669,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/hb/max2/max2_mii5v1.pdf"
-			(at 52.07 87.63 0)
+			(at 31.75 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2678,7 +2678,7 @@
 			)
 		)
 		(property "Description" "Altera MAX2 CPLD with 240 LE"
-			(at 52.07 87.63 0)
+			(at 31.75 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
